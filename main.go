@@ -1,7 +1,10 @@
 package main
 
-import "github.com/matahariramadhan/go_design_pattern/bridge"
+import (
+	factorymethod "github.com/matahariramadhan/go_design_pattern/factory_method"
+)
 
 func main() {
-	bridge.Main()
+	// bridge.Main()
+	factorymethod.Main()
 }
