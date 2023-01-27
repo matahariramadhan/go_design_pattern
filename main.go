@@ -1,10 +1,11 @@
 package main
 
 import (
-	factorymethod "github.com/matahariramadhan/go_design_pattern/factory_method"
+	abstractfactory "github.com/matahariramadhan/go_design_pattern/abstract_factory"
 )
 
 func main() {
 	// bridge.Main()
-	factorymethod.Main()
+	// factorymethod.Main()
+	abstractfactory.Main()
 }
